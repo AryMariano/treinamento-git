@@ -1,2 +1,2 @@
 # treinamento-git
-Apenas para treinar o Git
+Apenas para treinar o Git e testar alguma coisinha
